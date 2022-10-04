@@ -242,3 +242,10 @@ hr {
     
     
 }
+.dargah{
+    max-width: 80%;
+    width: 360px;
+    display: block;
+    margin: auto;
+
+}
